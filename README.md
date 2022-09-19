@@ -23,7 +23,7 @@
                  alt="Typora-Logo"
                  height="500"/>
         	<br>
-            <center>(c) UDSN</center>
+            <center>(c) UPSN</center>
         </center></div></td>    
      	<td><div><center>
     		<img src="readme.assets/Full-dose.png"
